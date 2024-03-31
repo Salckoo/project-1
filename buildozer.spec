@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Mp3 Boy
+title = Mp3_Boy
 
 # (str) Package name
 package.name = mp3boy
